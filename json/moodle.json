@@ -1,0 +1,22 @@
+{
+    "name": "moodle",
+    "domain": "*.moodle.com",
+    "alt_names": [
+        "*.media.moodle.com",
+        "*.books.moodle.com",
+        "*.movies.moodle.com",
+        "*.jobs.moodle.com",
+        "*.games.moodle.com",
+        "*.kids.moodle.com",
+        "*.mobile.moodle.com"
+    ],
+    "data": [
+        "moodle-media-data",
+        "moodle-books-data",
+        "moodle-movies-data",
+        "moodle-jobs-data",
+        "moodle-games-data",
+        "moodle-kids-data",
+        "moodle-mobile-data"
+    ]
+}

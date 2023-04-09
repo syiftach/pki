@@ -1,0 +1,22 @@
+{
+    "name": "morfix",
+    "domain": "*.morfix.com",
+    "alt_names": [
+        "*.media.morfix.com",
+        "*.books.morfix.com",
+        "*.movies.morfix.com",
+        "*.jobs.morfix.com",
+        "*.games.morfix.com",
+        "*.kids.morfix.com",
+        "*.mobile.morfix.com"
+    ],
+    "data": [
+        "morfix-media-data",
+        "morfix-books-data",
+        "morfix-movies-data",
+        "morfix-jobs-data",
+        "morfix-games-data",
+        "morfix-kids-data",
+        "morfix-mobile-data"
+    ]
+}

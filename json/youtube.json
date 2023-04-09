@@ -1,0 +1,22 @@
+{
+    "name": "youtube",
+    "domain": "*.youtube.com",
+    "alt_names": [
+        "*.media.youtube.com",
+        "*.books.youtube.com",
+        "*.movies.youtube.com",
+        "*.jobs.youtube.com",
+        "*.games.youtube.com",
+        "*.kids.youtube.com",
+        "*.mobile.youtube.com"
+    ],
+    "data": [
+        "youtube-media-data",
+        "youtube-books-data",
+        "youtube-movies-data",
+        "youtube-jobs-data",
+        "youtube-games-data",
+        "youtube-kids-data",
+        "youtube-mobile-data"
+    ]
+}

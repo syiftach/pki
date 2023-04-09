@@ -1,0 +1,22 @@
+{
+    "name": "wikipedia",
+    "domain": "*.wikipedia.com",
+    "alt_names": [
+        "*.media.wikipedia.com",
+        "*.books.wikipedia.com",
+        "*.movies.wikipedia.com",
+        "*.jobs.wikipedia.com",
+        "*.games.wikipedia.com",
+        "*.kids.wikipedia.com",
+        "*.mobile.wikipedia.com"
+    ],
+    "data": [
+        "wikipedia-media-data",
+        "wikipedia-books-data",
+        "wikipedia-movies-data",
+        "wikipedia-jobs-data",
+        "wikipedia-games-data",
+        "wikipedia-kids-data",
+        "wikipedia-mobile-data"
+    ]
+}
